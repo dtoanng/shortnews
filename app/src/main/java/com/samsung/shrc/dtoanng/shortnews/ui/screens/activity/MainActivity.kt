@@ -1,4 +1,4 @@
-package com.samsung.shrc.dtoanng.shortnews
+package com.samsung.shrc.dtoanng.shortnews.ui.screens.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
